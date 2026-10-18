@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"PO-Revision-Date: 2026-10-18 20:21+0200\n"
+"PO-Revision-Date: 2026-10-18 20:49+0200\n"
 "X-Generator: Gtranslator 51.0\n"
 
 #: extension.js:280 prefs.js:782
@@ -265,7 +265,7 @@ msgstr "Datuen testua"
 
 #: prefs.js:490
 msgid "Bolder or larger metric values and chart hours"
-msgstr "Balio metriko eta orduen testu lodiagoa edota handiagoa"
+msgstr "Balio metrikoen eta orduen testu lodiagoa edota handiagoa"
 
 #: prefs.js:492
 msgid "Bold"
@@ -368,8 +368,8 @@ msgid ""
 "How the panel button looks for this scene — mock temperature, real icon "
 "animation"
 msgstr ""
-"Paneleko botoiak eszena honetan izango duen itxura — adibiderako tenperatura, "
-"benetako ikono animazioa"
+"Paneleko botoiak eszena honetan izango duen itxura — adibiderako "
+"tenperatura, benetako ikono animazioa"
 
 #: prefs.js:612
 msgid "Menu backdrop preview"
@@ -384,7 +384,7 @@ msgstr ""
 
 #: prefs.js:640
 msgid "Preview scene"
-msgstr "Aurreikusi eszena"
+msgstr "Aurrebistaren eszena"
 
 #: prefs.js:641
 msgid "Loops right here for ~12 s — your real panel stays put"
